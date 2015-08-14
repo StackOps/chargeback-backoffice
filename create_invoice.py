@@ -12,6 +12,8 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 #
+#   Sample chargeback <-> invoice system integration 
+#   used in https://cirrusflex.com
 #
 # python create_invoice.py ADMIN_PASSWORD DEBITOOR_TOKEN dd-mm-yyyy
 #
